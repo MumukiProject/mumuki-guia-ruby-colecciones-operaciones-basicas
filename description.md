@@ -1,0 +1,1 @@
+¿Y si quiero hacer algo con varios objetos?
