@@ -3,7 +3,9 @@ name: 'Colecciones: operaciones básicas'
 locale: es
 type: learning
 beta: false
-teacher_info: 
+teacher_info: "* Construcción. \n* Métodos de acceso: por índice, `first`, `last`.\n*
+  Operaciones - con efecto: `<<`, `+=`.\n* Consultas - sin efecto: `empty?`, `include?`,
+  `size`.\n* Iteración, utilizando `for`."
 language: ruby
 id_format: "%05d"
 order: []
